@@ -1,0 +1,87 @@
+{
+  "image_name": "airport_7.jpg",
+  "image_status": "locked",
+  "annotation_completed": "No",
+  "lock_time": "2025-09-28 19:33:21",
+  "overall_annotation": "this is a satellite remote sensing image of an airport, with a distinctive circular terminal at the center of the image surrounded by airplanes. Some white airplanes are in the airport. There are many runways around the picture, with planes taxiing on them. There is a parking lot in the upper right corner of the picture, filled with closely parked vehicles. The rest of the picture is grassland and forest.",
+  "overall_annotation_history": [],
+  "annotation_history": [],
+  "semantic_units": [
+    {
+      "name": "image",
+      "attributes": {
+        "amount": "a",
+        "object_description": "satellite remote sensing",
+        "other": [
+          "of an airport"
+        ]
+      }
+    },
+    {
+      "name": "terminal",
+      "attributes": {
+        "amount": "a",
+        "shape": "circular",
+        "absolute_location": "at the center"
+      }
+    },
+    {
+      "name": "airplane",
+      "attributes": {
+        "relative_location": "surrounding the terminal",
+        "other": [
+          "surrounded by airplanes"
+        ]
+      }
+    },
+    {
+      "name": "airplane",
+      "attributes": {
+        "colour": "white",
+        "relative_location": "on the airfield"
+      }
+    },
+    {
+      "name": "runway",
+      "attributes": {
+        "amount": "multiple",
+        "relative_location": "encircling the terminal"
+      }
+    },
+    {
+      "name": "plane",
+      "attributes": {
+        "other": [
+          "taxiing"
+        ],
+        "relative_location": "on the runways"
+      }
+    },
+    {
+      "name": "parking lot",
+      "attributes": {
+        "absolute_location": "in the upper right corner",
+        "object_description": "contains densely packed vehicles"
+      }
+    },
+    {
+      "name": "vehicle",
+      "attributes": {
+        "amount": "densely packed",
+        "relative_location": "in the parking lot"
+      }
+    },
+    {
+      "name": "grassland",
+      "attributes": {
+        "relative_location": "surrounding areas"
+      }
+    },
+    {
+      "name": "forest",
+      "attributes": {
+        "relative_location": "surrounding areas"
+      }
+    }
+  ]
+}

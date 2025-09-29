@@ -1,0 +1,10 @@
+ffmpeg==1.4
+gradio==4.44.1
+numpy==1.26.1
+openai==1.93.0
+pandas==2.1.2
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+tqdm==4.65.2
+openai-whisper==20240930
+schedule==1.2.2

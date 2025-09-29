@@ -1,0 +1,96 @@
+{
+  "image_name": "Airplane.jpg",
+  "image_status": "unlocked",
+  "annotation_completed": "No",
+  "lock_time": "",
+  "overall_annotation": "这是一张机场的卫星遥感图像，图像中心有一个独特的圆形航站楼，周围环绕着飞机。一些白色的飞机在机场。照片周围有许多跑道，飞机在上面滑行。图片右上角有一个停车场，里面停满了停得很近的车辆。图片的其余部分是草原和森林。",
+  "overall_annotation_history": [],
+  "annotation_history": [],
+  "semantic_units": [
+    {
+      "name": "image",
+      "attributes": {
+        "amount": "a",
+        "object_description": "satellite",
+        "other": [
+          "of an airport"
+        ]
+      }
+    },
+    {
+      "name": "terminal",
+      "attributes": {
+        "amount": "a",
+        "shape": "circular",
+        "absolute_location": "at the center",
+        "object_description": "distinctive"
+      }
+    },
+    {
+      "name": "aircraft",
+      "attributes": {
+        "amount": "several",
+        "relative_location": "surrounding the terminal"
+      }
+    },
+    {
+      "name": "airplane",
+      "attributes": {
+        "amount": "several",
+        "colour": "white",
+        "relative_location": "on the airfield"
+      }
+    },
+    {
+      "name": "runway",
+      "attributes": {
+        "amount": "multiple",
+        "relative_location": "extend around the terminal"
+      }
+    },
+    {
+      "name": "plane",
+      "attributes": {
+        "relative_location": "taxiing on the runways",
+        "other": [
+          "planes taxiing"
+        ]
+      }
+    },
+    {
+      "name": "parking lot",
+      "attributes": {
+        "amount": "a",
+        "absolute_location": "in the upper right corner",
+        "object_description": "filled with closely parked vehicles"
+      }
+    },
+    {
+      "name": "vehicle",
+      "attributes": {
+        "relative_location": "in the parking lot",
+        "other": [
+          "closely parked"
+        ]
+      }
+    },
+    {
+      "name": "surrounding area",
+      "attributes": {
+        "object_description": "consists of grassland and forest"
+      }
+    },
+    {
+      "name": "grassland",
+      "attributes": {
+        "relative_location": "in the surrounding area"
+      }
+    },
+    {
+      "name": "forest",
+      "attributes": {
+        "relative_location": "in the surrounding area"
+      }
+    }
+  ]
+}
