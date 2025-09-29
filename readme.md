@@ -17,7 +17,7 @@
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
 [Liang Yao (姚亮)](https://multimodality.group/author/%E5%A7%9A%E4%BA%AE/) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
-[Yuhui Zheng (郑玉辉)](https://faculty.nuist.edu.cn/zhengyuhui/en/index.htm) 
+[Yuhui Zheng (郑钰辉)](https://faculty.nuist.edu.cn/zhengyuhui/en/index.htm) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">
 
 
